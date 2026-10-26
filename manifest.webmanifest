@@ -1,0 +1,18 @@
+{
+  "name": "Diff View — S3eidat Tools",
+  "short_name": "Diff View",
+  "description": "Compare two texts side by side",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0f12",
+  "theme_color": "#0d0f12",
+  "icons": [
+    {
+      "src": "kit/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
